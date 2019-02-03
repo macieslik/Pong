@@ -1,2 +1,2 @@
 # Pong
-Pong browser game with NPC made with HTML / JavaScript.
+Pong game with NPC made in HTML.
